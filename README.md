@@ -62,7 +62,7 @@ streamlit run fintech_finder.py
 
 As is illustrated below:
 
-![Fintech Finder](fintech_finder.gif)
+![Fintech Finder](Images/fintech_finder.gif)
 
 
 ---
